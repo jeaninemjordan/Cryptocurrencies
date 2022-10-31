@@ -22,7 +22,7 @@ The dataset was provided by CryptoCompare, a reporting website founded in 2014 t
 
 #### Software
 
-* Python Python 3.7.13 (Dependencies: Pandas 1.3.5,  SciKit-Learn 1.0, hvPlot 0.8.1, Plotly 5.10.0, 
+* Python Python 3.7.13 (Dependencies: Pandas 1.3.5,  SciKit-Learn 1.0, hvPlot 0.8.1, Plotly 5.10.0)
 * Anaconda 2022.10
 * Jupyter Notebook 6.4.12
 
